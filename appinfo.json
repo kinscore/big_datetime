@@ -1,0 +1,22 @@
+{
+  "uuid": "367614a3-1bd4-4835-89d4-d4367fb2c940",
+  "shortName": "Big Datetime",
+  "longName": "Big Datetime",
+  "companyName": "Kipling Inscore",
+  "versionCode": 3,
+  "versionLabel": "2.1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_big_datetime.png"
+      }
+    ]
+  }
+}

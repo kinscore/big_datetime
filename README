@@ -1,0 +1,4 @@
+Big Datetime watchface for Pebble.
+
+Based on the Big Time watchface (mostly stylistically, only loosely in source code).
+Licensed under the MIT license (same license as official Pebble examples); see LICENSE for more information.
